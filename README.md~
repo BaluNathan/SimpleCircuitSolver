@@ -28,7 +28,7 @@ printNode <i>all</i>
 
 -->print the specified node or all nodes
 
-setV <i>nodeNumber</i> <i>voltage</i>
+setV <i>voltage</i> <i>nodeNumber</i>
 
 -->set specified node to specified voltage ~ corresponds to inserting voltage source at that node
 
