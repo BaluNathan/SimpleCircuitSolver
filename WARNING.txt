@@ -1,0 +1,5 @@
+**WARNING!
+
+All are free to take, reuse, modify, copy, etc., the code within this repo.
+
+HOWEVER, the program in this repo was completed as part of an undergraduate assignment. Please use the code contained conscientiously -- direct reuse of the code will constitute as plagiarism in some contexts! 
